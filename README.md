@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README for Sahil Kalot
-  Replace the LinkedIn and agency URLs in the Contact section before publishing.
-  For a live profile README, place this content in a repository named: Sahil-K39/Sahil-K39
--->
-
 <div align="center">
 
 # Welcome to Sahil Kalot's Cyber-Noir Studio
