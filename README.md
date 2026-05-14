@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Sahil Kalot's Cyber-Noir Studio
+# Welcome to Sahil Kalot's Cyber- Studio
 
 ### Cybersecurity B.Tech Student | Co-Founder, Deepindram Films & Ad Agency
 
