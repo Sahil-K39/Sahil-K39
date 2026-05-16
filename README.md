@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack;Flutter+%7C+DevOps" alt="Typing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack;[...]
 
 <br/>
 
@@ -66,9 +66,9 @@ Premium fashion platform with futuristic luxury aesthetics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub Stats"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff)](https://github.com/Sahil-K39)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/Sahil-K39?tab=repositories)
 
 </div>
 
