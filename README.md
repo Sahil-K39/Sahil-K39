@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack+Developer;Flutter+Developer+%7C+Docker+Learner;Building+Modern+%26+Secure+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack+Developer;Flutter+Developer+%7C+Docker+Learner;Building+Modern+%26+Secure+Digital+Experiences" />
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahil-K39&style=flat&color=000000"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Sahil-K39&style=flat&color=000000"/>
 
 </div>
 
@@ -16,7 +14,7 @@
 
 I am a B.Tech student focused on cybersecurity, full stack development, and modern application architecture.
 
-My work combines secure development practices with clean UI systems, scalable backend structures, and performance-focused applications.
+My work combines secure development practices with scalable backend systems, clean UI design, and performance-focused applications.
 
 I have internship experience in:
 - Cybersecurity
@@ -56,6 +54,68 @@ Premium fashion platform inspired by futuristic luxury aesthetics and modern dig
 • Docker integration
 • Scalable frontend system
 ```
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,js,python,mongodb,firebase,docker,git,linux,vscode&theme=dark" />
+
+</div>
+
+---
+
+# Development
+
+```txt
+Full Stack Development
+Flutter Application Development
+REST API Integration
+Docker Containerization
+Responsive UI Systems
+Linux Environment
+Git & Version Control
+Secure Development Practices
+```
+
+---
+
+# GitHub
+
+```txt
+Focused on:
+• Cybersecurity
+• Full Stack Development
+• Flutter Applications
+• Docker & DevOps
+• Modern UI/UX Systems
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sahil-kalot">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Sahilkalot39487@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILD • SECURE • SCALE
+
+</div>```
 
 ---
 
