@@ -66,19 +66,19 @@ Premium fashion platform with futuristic luxury aesthetics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff&count_private=true)
+<a href="https://github.com/Sahil-K39">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff&count_private=true" alt="Sahil's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Sahil-K39">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&card_width=320" alt="Top Languages"/>
+</a>
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-K39&theme=github-dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-K39&theme=github-dark&hide_border=true&bg_color=0d1117&line=58a6ff&point=79c0ff&area_color=0d1117" alt="GitHub Activity Graph"/>
 
 </div>
 
