@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack+Developer;Flutter+Developer+%7C+Docker+Learner;Building+Modern+%26+Secure+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack+[...]
 
 <br/>
 
@@ -92,65 +92,6 @@ Focused on:
 • Docker & DevOps
 • Modern UI/UX Systems
 ```
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sahil-kalot">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:Sahilkalot39487@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### BUILD • SECURE • SCALE
-
-</div>```
-
----
-
-# Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,js,python,mongodb,firebase,docker,git,linux,vscode&theme=dark" />
-
-</div>
-
----
-
-# Development
-
-```txt
-Full Stack Development
-Flutter Application Development
-REST API Integration
-Docker Containerization
-Responsive UI Systems
-Linux Environment
-Git & Version Control
-Secure Development Practices
-```
-
----
-
-# GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=transparent&hide_border=true" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
