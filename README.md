@@ -50,15 +50,37 @@ Premium fashion platform with futuristic luxury aesthetics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,js,python,mongodb,firebase,docker,git,linux,vscode&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,js,python,go,mongodb,firebase,docker,git,linux,vscode&theme=dark" alt="Tech Stack"/>
 
 </div>
 
-**Languages:** JavaScript, Python, Dart, HTML5, CSS3
+**Languages:** JavaScript, Python, Dart, Go, HTML5, CSS3
 
 **Frameworks:** React, Node.js, Express.js, Flutter
 
 **Tools & Platforms:** Docker, Git, Linux, Firebase, MongoDB
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff&count_private=true)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-K39&theme=github-dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
+
+</div>
 
 ---
 
