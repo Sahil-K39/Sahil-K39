@@ -1,96 +1,110 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack;[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack+Developer;Flutter+Developer+%7C+Docker+Learner;Building+Modern+%26+Secure+Digital+Experiences" />
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Sahil-K39">
-    <img src="https://komarev.com/ghpvc/?username=Sahil-K39&style=flat&color=000000" alt="Profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sahil-K39&style=flat&color=000000"/>
 </p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+# Introduction
 
-B.Tech student passionate about building secure, scalable, and modern digital experiences. I combine strong development fundamentals with a security-first mindset to create impactful applications.
+I am a B.Tech student focused on cybersecurity, full stack development, and modern application architecture.
 
-**Internship Experience:**
-- Cybersecurity & Vulnerability Assessment
-- Mobile Application Development (Flutter)
+My work combines secure development practices with clean UI systems, scalable backend structures, and performance-focused applications.
 
-**Current Focus:**
-- Full Stack Development (React, Node.js)
-- Flutter Mobile Applications
+I have internship experience in:
+- Cybersecurity
+- Mobile Application Development
+
+Current focus areas:
+- Full Stack Development
+- Flutter Applications
 - Docker & DevOps
-- Secure System Architecture
-- Modern UI/UX Design
+- Secure System Design
+- Modern UI/UX
 
 ---
 
-## ⭐ Featured Project
+# Featured Project
 
 <div align="center">
 
-### **Shiv Shakti**
-Premium fashion platform with futuristic luxury aesthetics
+## Shiv Shakti
 
-[View on GitHub](https://github.com/Sahil-K39/Shiv-Shakti-Project)
+Premium fashion platform inspired by futuristic luxury aesthetics and modern digital experiences.
 
-**Tech:** React • Node.js • MongoDB • Docker
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,js,python,go,mongodb,firebase,docker,git,linux,vscode&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-**Languages:** JavaScript, Python, Dart, Go, HTML5, CSS3
-
-**Frameworks:** React, Node.js, Express.js, Flutter
-
-**Tools & Platforms:** Docker, Git, Linux, Firebase, MongoDB
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Sahil-K39">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff&count_private=true" alt="Sahil's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Sahil-K39">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&card_width=320" alt="Top Languages"/>
+<a href="https://github.com/Sahil-K39/Shiv-Shakti-Project">
+  <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge"/>
 </a>
 
 </div>
 
+<br/>
+
+```txt
+• Multi-page architecture
+• Premium dark interface
+• Responsive modern layout
+• React ecosystem
+• Component-based structure
+• Docker integration
+• Scalable frontend system
+```
+
+---
+
+# Tech Stack
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-K39&theme=github-dark&hide_border=true&bg_color=0d1117&line=58a6ff&point=79c0ff&area_color=0d1117" alt="GitHub Activity Graph"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,js,python,mongodb,firebase,docker,git,linux,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🔗 Connect with Me
+# Development
+
+```txt
+Full Stack Development
+Flutter Application Development
+REST API Integration
+Docker Containerization
+Responsive UI Systems
+Linux Environment
+Git & Version Control
+Secure Development Practices
+```
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=transparent&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kalot)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sahilkalot39487@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil-K39)
+<a href="https://www.linkedin.com/in/sahil-kalot">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Sahilkalot39487@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -98,8 +112,6 @@ Premium fashion platform with futuristic luxury aesthetics
 
 <div align="center">
 
-### **BUILD • SECURE • SCALE**
-
-*Turning ideas into secure and modern digital experiences.*
+### BUILD • SECURE • SCALE
 
 </div>
