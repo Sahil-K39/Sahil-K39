@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack+[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=SAHIL+KALOT;Cybersecurity+%7C+Full+Stack+Development;Flutter+Apps;Secure+Systems"/>
 
 <br/>
 
