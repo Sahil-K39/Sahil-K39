@@ -1,198 +1,105 @@
 <div align="center">
 
-# SAHIL KALOT
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Security-First+Software+Engineer;Full+Stack+Web+Developer;Mobile+Application+Engineer;Building+Secure+%26+Scalable+Digital+Experiences" alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Flutter+App+Developer;Building+Secure+%26+Modern+Digital+Experiences" />
+### B.Tech in Computer Science (Cybersecurity) • Full Stack & Mobile Engineer
 
-### B.Tech Student • Cybersecurity • Full Stack • Flutter Developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0055FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kalot)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil-K39)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sahilkalot39487@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
----
+## 💫 Executive Summary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# 💫 About Me
+I am a forward-thinking **Software Engineer specializing in Cybersecurity**, dedicated to architecting secure, high-performance, and scalable digital ecosystems. By bridging the gap between robust full-stack development and rigorous defensive security engineering, I ensure applications are resilient by design.
 
-I’m a passionate **B.Tech student** focused on building secure, scalable, and modern digital products.
+*   **Development Philosophy:** Writing clean, modular code with a security-first posture to preemptively mitigate OWASP Top 10 vulnerabilities.
+*   **Core Competencies:** Secure Web & Mobile Architectures, Vulnerability Assessments, Penetration Testing, and RESTful API Optimization.
 
-With internship experience in both **Cybersecurity** and **Mobile App Development**, I combine security-first thinking with strong development skills to create impactful applications and user experiences.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-I enjoy working on:
-- 🔐 Cybersecurity & Ethical Hacking
-- 🌐 Full Stack Web Development
-- 📱 Cross-Platform Mobile Apps
-- 🎨 Premium UI/UX Interfaces
-- ⚡ Modern & Scalable Technologies
+## 🚀 Professional Experience
 
----
+### 🔐 Cybersecurity Engineering Intern
+*   **Vulnerability Management:** Conducted comprehensive security assessments and vulnerability scans across network environments to isolate threat vectors.
+*   **Defensive Security:** Configured secure Linux environments and analyzed network traffic to optimize firewall policies and infrastructure defense mechanisms.
+*   **Risk Mitigation:** Researched emerging exploits and practical ethical hacking methodologies to implement robust security controls within software lifecycles.
 
-# 🚀 Experience
+### 📱 Mobile Application Engineering Intern
+*   **Cross-Platform Architecture:** Engineered responsive, high-performance mobile applications leveraging the Flutter ecosystem.
+*   **State Management & APIs:** Streamlined application performance by integrating optimized RESTful APIs and robust data-binding methodologies.
+*   **UI/UX Optimization:** Translated complex design wireframes into highly intuitive, fluid, and platform-agnostic user interfaces.
 
-### 🔐 Cybersecurity Intern
-- Worked on cybersecurity fundamentals, vulnerability assessment, and security practices
-- Explored Linux systems, networking, and security testing methodologies
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-### 📱 Mobile App Development Intern
-- Developed modern mobile applications using Flutter
-- Worked on responsive UI, APIs, and app functionality
-- Improved performance and user experience across devices
-
----
-
-# 🛠 Tech Stack
+## 🛠 Technical Ecosystem
 
 <div align="center">
 
-## Languages & Frameworks
-
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+### 💻 Core Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart)
 
-## Databases & Tools
+### 🌐 Full Stack & Web Architecture
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+### 📱 Mobile Engineering
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter)
+
+### 🛡 Cybersecurity & OS
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+
+### 🗄 Databases & Version Control
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-# 📌 Core Skills
-
-```bash
-✔ Full Stack Development
-✔ Flutter App Development
-✔ REST APIs
-✔ Firebase Integration
-✔ Responsive UI/UX
-✔ Cybersecurity Fundamentals
-✔ Linux & Networking
-✔ Git & Version Control
-```
-
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Metrics & Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF" alt="Sahil's GitHub Stats" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-K39&theme=tokyonight&hide_border=true&stroke=0000&ring=00E5FF&fire=00E5FF" alt="Sahil's GitHub Streak" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" alt="Top Languages" />
 
 </div>
 
----
-
-# 🌟 What Makes Me Different
-
-- Security-first development mindset
-- Strong blend of development + cybersecurity
-- Fast learner with modern tech adaptability
-- Focused on clean UI and scalable architecture
-- Passionate about continuous learning and innovation
-
----
-
-# 🌐 Connect With Me
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-kalot)
-
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)](mailto:Sahilkalot39487@gmail.com)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+## 🌟 The Competitive Edge
+
+*   **Security-First DNA:** Unlike traditional developers, security is baked into my development loop from line one, reducing post-production code audits.
+*   **Rapid Adaptability:** Highly proficient in picking up bleeding-edge modern frameworks and adapting quickly to evolving enterprise tech stacks.
+*   **Eye for Detail:** Deeply committed to polished UI/UX aesthetics, ensuring high-fidelity visual delivery without compromising underlying structural integrity.
+
+<br>
 
 <div align="center">
 
-## ⚔️ BUILD • SECURE • CREATE
+## ⚔️ ENGINEER • SECURE • SCALE
 
-*"Turning ideas into secure and modern digital experiences."*
-
-</div>![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-
-## Databases & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
-
-</div>
-
----
-
-# 📌 Core Skills
-
-```bash
-✔ Full Stack Development
-✔ Flutter App Development
-✔ REST APIs
-✔ Firebase Integration
-✔ Responsive UI/UX
-✔ Cybersecurity Fundamentals
-✔ Linux & Networking
-✔ Git & Version Control
-```
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🌟 What Makes Me Different
-
-- Security-first development mindset
-- Strong blend of development + cybersecurity
-- Fast learner with modern tech adaptability
-- Focused on clean UI and scalable architecture
-- Passionate about continuous learning and innovation
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚔️ BUILD • SECURE • CREATE
-
-*"Turning ideas into secure and modern digital experiences."*
+*"Transforming complex logic into secure, elegant, and enterprise-grade reality."*
 
 </div>
