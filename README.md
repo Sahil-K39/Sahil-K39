@@ -45,6 +45,39 @@ My interests include:
 
 ---
 
+# Featured Project
+
+<div align="center">
+
+## Shiv Shakti — Premium Fashion Platform
+
+Modern multi-page fashion platform inspired by luxury and futuristic streetwear aesthetics.
+
+[View Repository](https://github.com/Sahil-K39/Shiv-Shakti-Project)
+
+</div>
+
+### Project Highlights
+
+```bash
+Modern Premium UI/UX
+Responsive Multi-Page Architecture
+Dark Futuristic Design
+React-Based Frontend
+Scalable Component Structure
+Fashion Product Showcase System
+Docker Integration
+```
+
+### Technologies Used
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+
+---
+
 # Tech Stack
 
 <div align="center">
