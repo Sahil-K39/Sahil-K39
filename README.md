@@ -6,9 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/Sahil-K39">
-    <img src="https://img.shields.io/github/followers/Sahil-K39?style=flat&color=000000&labelColor=000000"/>
-  </a>
-  <a href="https://github.com/Sahil-K39">
     <img src="https://komarev.com/ghpvc/?username=Sahil-K39&style=flat&color=000000"/>
   </a>
 </p>
@@ -47,6 +44,81 @@ Premium fashion platform inspired by futuristic luxury aesthetics and modern dig
 <a href="https://github.com/Sahil-K39/Shiv-Shakti-Project">
   <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge"/>
 </a>
+
+</div>
+
+<br/>
+
+```txt
+• Multi-page architecture
+• Premium dark interface
+• Responsive modern layout
+• React ecosystem
+• Component-based structure
+• Docker integration
+• Scalable frontend system
+```
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,js,python,mongodb,firebase,docker,git,linux,vscode&theme=dark" />
+
+</div>
+
+---
+
+# Development
+
+```txt
+Full Stack Development
+Flutter Application Development
+REST API Integration
+Docker Containerization
+Responsive UI Systems
+Linux Environment
+Git & Version Control
+Secure Development Practices
+```
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sahil-kalot">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Sahilkalot39487@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILD • SECURE • SCALE
+
+</div></a>
 
 </div>
 
