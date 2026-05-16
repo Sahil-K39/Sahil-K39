@@ -1,78 +1,141 @@
 <div align="center">
 
 # SAHIL KALOT
-**Security-First Software Engineer | Full Stack & Mobile Developer**
 
-B.Tech in Computer Science (Cybersecurity) • 6th Semester
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Flutter+Developer;Docker+%26+DevOps+Learner;Building+Secure+Digital+Experiences" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kalot)
-[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahil-K39)
-[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=white)](mailto:Sahilkalot39487@gmail.com)
+<br/>
 
-<br>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=SAHIL%20KALOT&fontSize=35&fontAlignY=40&color=0:111111,100:000000&fontColor=ffffff" />
 
-## ◼ Executive Profile
+### B.Tech Student • Cybersecurity • Full Stack • Flutter • Docker
 
-I am a software engineer focused on building secure, scalable, and high-performance digital architectures. Bridging the gap between rigorous defensive security engineering and modern full-stack development, I ensure applications are resilient by design.
-
-Beyond traditional software engineering, my background as the Co-founder of Deepindram Films & Ad Agency has instilled a deep appreciation for premium UI/UX, allowing me to deliver products that are not only structurally sound but visually compelling.
-
----
-
-## ◼ Professional Experience
-
-**Cybersecurity Engineering Intern**
-*   **Vulnerability Management:** Conducted comprehensive security assessments and vulnerability scans across network environments to isolate and patch threat vectors.
-*   **Infrastructure Defense:** Configured secure Linux environments and analyzed network traffic to optimize firewall policies and infrastructure defense mechanisms.
-
-**Mobile Application Engineering Intern**
-*   **Cross-Platform Architecture:** Engineered responsive, high-performance mobile applications leveraging the Flutter ecosystem.
-*   **API Integration:** Streamlined application performance by integrating optimized RESTful APIs and robust data-binding methodologies.
-
----
-
-## ◼ Technical Ecosystem
-
-<div align="left">
-
-### Core Engineering & Web
-![TypeScript](https://img.shields.io/badge/TypeScript-151515?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-151515?style=flat-square&logo=python)
-![Next.js](https://img.shields.io/badge/Next.js-151515?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-151515?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-151515?style=flat-square&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-151515?style=flat-square&logo=tailwindcss)
-
-### Mobile & Cross-Platform
-![Flutter](https://img.shields.io/badge/Flutter-151515?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-151515?style=flat-square&logo=dart)
-
-### Security & Infrastructure
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-151515?style=flat-square&logo=kalilinux)
-![Linux](https://img.shields.io/badge/Linux-151515?style=flat-square&logo=linux)
-![Firebase](https://img.shields.io/badge/Firebase-151515?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/Git-151515?style=flat-square&logo=git)
+<img src="https://komarev.com/ghpvc/?username=Sahil-K39&label=Profile%20Views&color=000000&style=for-the-badge" />
 
 </div>
 
 ---
 
-## ◼ Engineering Metrics
+# About Me
+
+I am a B.Tech student focused on building secure, scalable, and modern digital experiences.
+
+With internship experience in both Cybersecurity and Mobile App Development, I combine strong development skills with a security-first mindset to create impactful applications and premium user experiences.
+
+My interests include:
+- Cybersecurity & Ethical Hacking
+- Full Stack Development
+- Flutter Mobile Applications
+- Scalable Backend Systems
+- Modern UI/UX Design
+
+---
+
+# Experience
+
+## Cybersecurity Intern
+- Worked on cybersecurity fundamentals and security practices
+- Explored Linux systems, networking, and vulnerability assessment
+- Learned security testing methodologies and secure development practices
+
+## Mobile App Development Intern
+- Developed responsive mobile applications using Flutter
+- Integrated APIs and backend services
+- Improved application performance and user experience
+
+---
+
+# Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=transparent&hide_border=true&title_color=1A1A1A&text_color=333333&icon_color=1A1A1A" alt="Sahil's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=transparent&hide_border=true&title_color=1A1A1A&text_color=333333" alt="Top Languages" width="48%" />
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter)
+
+### Databases & DevOps
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
+
+</div>
+
+---
+
+# Development & DevOps
+
+```bash
+Full Stack Development
+Flutter Application Development
+REST API Integration
+Firebase & MongoDB
+Docker Containerization
+Linux Environment
+Responsive UI/UX
+Git & Version Control
+Secure Development Practices
+```
+
+---
+
+# Current Focus
+
+- Cybersecurity & Ethical Hacking
+- Full Stack Web Applications
+- Flutter Mobile Development
+- Scalable Backend Systems
+- Modern DevOps Workflows
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Sahil-K39&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-K39&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K39&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-kalot)
+
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)](mailto:Sahilkalot39487@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-<br>
 
-*Architecting elegant solutions. Engineering secure systems.*
+### BUILD • SECURE • CREATE
+
+*Turning ideas into secure and modern digital experiences.*
 
 </div>
