@@ -107,6 +107,80 @@ I enjoy working on:
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-kalot)
+
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)](mailto:Sahilkalot39487@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚔️ BUILD • SECURE • CREATE
+
+*"Turning ideas into secure and modern digital experiences."*
+
+</div>![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+
+## Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
+
+</div>
+
+---
+
+# 📌 Core Skills
+
+```bash
+✔ Full Stack Development
+✔ Flutter App Development
+✔ REST APIs
+✔ Firebase Integration
+✔ Responsive UI/UX
+✔ Cybersecurity Fundamentals
+✔ Linux & Networking
+✔ Git & Version Control
+```
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🌟 What Makes Me Different
+
+- Security-first development mindset
+- Strong blend of development + cybersecurity
+- Fast learner with modern tech adaptability
+- Focused on clean UI and scalable architecture
+- Passionate about continuous learning and innovation
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
